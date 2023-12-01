@@ -1,5 +1,5 @@
 # mmoo
-# Turn Monitor Mode on and Off with a simple script.
+# Turn WiFi Monitor Mode on and Off with a simple script.
 
 In the terminal run: git clone https://github.com/fish-hue/mmoo.git
 
